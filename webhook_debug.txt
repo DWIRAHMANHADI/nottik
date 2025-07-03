@@ -1,0 +1,5166 @@
+2025-05-04T20:18:51+07:00
+
+2025-05-04T20:33:15+07:00
+
+2025-05-04T20:33:47+07:00
+
+2025-05-05T02:43:11+07:00
+
+2025-05-05T03:41:27+07:00
+
+2025-05-05T04:47:56+07:00
+Array
+(
+    [test] => ok
+)
+
+2025-05-05T04:50:01+07:00
+Array
+(
+    [test] => ok
+)
+
+2025-05-05T04:51:40+07:00
+Array
+(
+    [test] => ok
+)
+
+2025-05-05T04:51:47+07:00
+
+2025-05-05T04:53:44+07:00
+Array
+(
+    [test] => ok
+)
+
+2025-05-05T04:56:08+07:00
+Array
+(
+    [test] => ok
+)
+
+2025-05-05T05:14:56+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 10B017EA3D9F2676DA5F2A19BD43D886
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:14:56Z
+)
+
+2025-05-05T05:18:58+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => D4C0264E2D2DB1BEB8109A976E64F2B8
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:18:57Z
+)
+
+2025-05-05T05:24:30+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 85A327957D05BCFF6E753E5167EA6BD4
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:24:29Z
+)
+
+2025-05-05T05:33:22+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => EA0E1696DC27A88C04D74C5ED875ECF5
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:33:22Z
+)
+
+2025-05-05T05:38:02+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 09982661176AEF20C506B08CBC2A9C7D
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:38:02Z
+)
+
+2025-05-05T05:40:51+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => C8C1BEF1F9C751CF9C94DA083B133F14
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:40:51Z
+)
+
+2025-05-05T05:51:46+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 5B4A399BB46284DD6D4BFBC63FB7390C
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:51:46Z
+)
+
+2025-05-05T05:54:32+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 213319C141A9CB45886005AEE57A38DC
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:54:32Z
+)
+
+2025-05-05T05:56:09+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => AA5985AA77204776E5DE4B9663859317
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T22:56:09Z
+)
+
+2025-05-05T06:01:29+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 52D6D85D2EAF4809E6AF12BB1876A3CC
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T23:01:28Z
+)
+
+2025-05-05T06:10:41+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => B1AF075D34A08C55CA50CA1B1F493B26
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T23:10:41Z
+)
+
+2025-05-05T06:11:59+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 250EE085E84BA52F0AB72C93399212D4
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T23:11:59Z
+)
+
+2025-05-05T06:14:11+07:00
+Array
+(
+    [from] => 6285158441584@s.whatsapp.net in 120363415588839165@g.us
+    [message] => Array
+        (
+            [id] => 2E33D43E524D34CCAE3FE1029FF98E01
+            [text] => /nottik-id b67c2c149ab83144ad5e
+        )
+
+    [pushname] => SaputraKids
+    [timestamp] => 2025-05-04T23:14:11Z
+)
+
+2025-05-05T06:29:13+07:00
+Array
+(
+    [from] => 6285397171117@s.whatsapp.net in 120363170183466798@g.us
+    [message] => Array
+        (
+            [id] => B05926F285EB5973050BD2A24970B9D4
+        )
+
+    [pushname] => Andha
+    [reaction] => Array
+        (
+            [id] => 3EB01F6EC21D156329A1B7
+            [message] => ❤️
+        )
+
+    [timestamp] => 2025-05-04T23:29:11Z
+)
+
+2025-05-05T06:29:13+07:00
+Array
+(
+    [from] => 6285397171117@s.whatsapp.net in 120363170183466798@g.us
+    [message] => Array
+        (
+            [id] => B05926F285EB5973050BD2A24970B9D4
+        )
+
+    [pushname] => Andha
+    [timestamp] => 2025-05-04T23:29:11Z
+)
+
+2025-05-05T07:42:45+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 2A4D4FC8CF156644AE999377B8356925
+            [text] => Mas, server erapor hanya bisa diakses dari dalam, sedangkan dari luar tidak bisa diakses. Kenapa ya mas
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T00:42:45Z
+)
+
+2025-05-05T07:46:49+07:00
+Array
+(
+    [from] => 628113405165@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746406009-544312b5-3432-4dd8-92f9-99840a6b2538.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 0F3D97C295236A744923DAA5089A48E8
+        )
+
+    [pushname] => Lanakun Elektronik
+    [timestamp] => 2025-05-05T00:46:48Z
+)
+
+2025-05-05T07:48:43+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => B7B77DF30A45858F06F19661A61FE1FD
+            [text] => 192.168.15.201 
+Port 7252
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T00:48:43Z
+)
+
+2025-05-05T07:50:53+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => BE2D32FDFD949CFC34C51569CE2977F9
+            [text] => 36.91.131.91
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T00:50:53Z
+)
+
+2025-05-05T08:01:44+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F24DD537EDFB3854ACC13783222FA4D8
+        )
+
+    [pushname] => Asek
+    [sticker] => Array
+        (
+            [media_path] => statics/media/1746406904-caa22baa-8691-447f-85e8-9f483ed67ae5.webp
+            [mime_type] => image/webp
+            [caption] => 
+        )
+
+    [timestamp] => 2025-05-05T01:01:42Z
+)
+
+2025-05-05T08:02:45+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F9D83A6CA1A720E1E4D13436689AB52C
+            [text] => uwz om
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:02:44Z
+)
+
+2025-05-05T08:02:51+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 4D6055C9BCF0D723F5C85C8CE617CEF7
+            [text] => kari verifikasi
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:02:51Z
+)
+
+2025-05-05T08:06:30+07:00
+Array
+(
+    [from] => 6285735575748@s.whatsapp.net in 120363398351753806@g.us
+    [message] => Array
+        (
+            [id] => 6A2560B52D3D6D1E502049EA16CA1807
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:06:29Z
+)
+
+2025-05-05T08:06:30+07:00
+Array
+(
+    [from] => 6285735575748@s.whatsapp.net in 120363398351753806@g.us
+    [message] => Array
+        (
+            [id] => 6A2560B52D3D6D1E502049EA16CA1807
+            [text] => /nottik-id d47d759a10abd2e03dff
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:06:29Z
+)
+
+2025-05-05T08:07:51+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => A8FA7DF93148AB6F09E0F1672B65735D
+            [text] => # katut di paste pisan t om
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:07:50Z
+)
+
+2025-05-05T08:07:56+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 6798C7E0B7E51A3B2A4C5031AEE17E9A
+            [text] => opo ndisore tok
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:07:55Z
+)
+
+2025-05-05T08:08:03+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746407283-23fff37e-7af2-4bd7-8413-071c73ce3790.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => FE25F53BA0F1076E8462AC62841DEC27
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T01:08:02Z
+)
+
+2025-05-05T08:08:40+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 26260BFBCC14CB43EFC7A28863F6FF3E
+            [text] => ok om
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:08:40Z
+)
+
+2025-05-05T08:12:20+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => DE749B77731E6C9E6335671BA2016FAF
+            [text] => iki wa e tak hapus gpp yh om seng tak gawe daftar
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:12:19Z
+)
+
+2025-05-05T08:13:01+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 6D05779ED1E3A17824E16F1E01C3A2C1
+            [text] => seng nomer tak gawe daftar mau om
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:13:01Z
+)
+
+2025-05-05T08:13:35+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 4DACB9FDAE0BB1AFC4C6EE446D831F26
+        )
+
+    [pushname] => .
+    [sticker] => Array
+        (
+            [media_path] => statics/media/1746407615-f84dba6a-1b5e-4410-80c6-31f0639fea8b.webp
+            [mime_type] => image/webp
+            [caption] => 
+        )
+
+    [timestamp] => 2025-05-05T01:13:34Z
+)
+
+2025-05-05T08:13:42+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => A6A90900212F23A5385E877EFEE43F0B
+            [text] => oke shap wz
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:13:42Z
+)
+
+2025-05-05T08:14:03+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F9A5CB3C03DCF10AAF0C88E02C93763C
+            [text] => tak jajal om
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:14:02Z
+)
+
+2025-05-05T08:14:05+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 90CD83A54BE4FD6CCF697A737BD692A4
+            [text] => kick 1
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:14:04Z
+)
+
+2025-05-05T08:14:51+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 688D7E3FBE7A5CA0E2E318FB615FC06F
+            [text] => kok gak melbu om notif fe
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:14:50Z
+)
+
+2025-05-05T08:15:16+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 4AC60979AF9DB06758985F1BC9C20ACF
+            [text] => logout te berarti jalok aplly mane Iki
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:15:16Z
+)
+
+2025-05-05T08:15:43+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 2D78C5C900CDB98BBF26134F38D7F816
+            [text] => oke shap om
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:15:42Z
+)
+
+2025-05-05T08:16:53+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 7F3F4D476BA145229E2F0CE426F5F66B
+            [text] => shap terimakasih tak jajal sek om
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T01:16:52Z
+)
+
+2025-05-05T08:24:39+07:00
+Array
+(
+    [from] => 628113405165@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 99BECCD6FB9C0ABAEF0DE84C7015E239
+            [text] => siaaaaap boskuh
+        )
+
+    [pushname] => Lanakun Elektronik
+    [timestamp] => 2025-05-05T01:24:38Z
+)
+
+2025-05-05T08:28:00+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746408479-edb41f97-d278-4889-9d13-64e1c79a6425.jpeg
+            [mime_type] => image/jpeg
+            [caption] => mas untuk upload gambar per bagian munculnya url
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB089BDE5810F5B6AEF26
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:27:58Z
+)
+
+2025-05-05T08:28:03+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0C3AB21086979B9AEAE
+            [text] => pripun nggih
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:28:03Z
+)
+
+2025-05-05T08:37:44+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F656368CC743213C7415DD197AE4D458
+            [text] => PC itu pakai akses wifi free servernya Indihome
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T01:37:43Z
+)
+
+2025-05-05T08:39:08+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0842099B740F4B7DFB8
+            [text] => sek g paham
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:39:07Z
+)
+
+2025-05-05T08:39:40+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0AAB708DC151B1B93B5
+            [text] => mpun semua
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:39:40Z
+)
+
+2025-05-05T08:40:39+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 8E3778AD67F4B6DBD13037854A176102
+            [text] => Ya mas, sebentar lagi tak ke atas
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T01:40:38Z
+)
+
+2025-05-05T08:40:43+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746409243-38dba4cc-ee5d-4790-9a95-7d219bdfa99c.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB00AF85AB3B14C5F7CDE
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:40:43Z
+)
+
+2025-05-05T08:40:50+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => B14C3985B5E1956C4C44C735D0701D52
+            [text] => Ini masih di 84
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T01:40:49Z
+)
+
+2025-05-05T08:41:03+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0CAB68FD5DF441C951C
+            [text] => maksdnya mau ini tapi gpp wes
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:41:02Z
+)
+
+2025-05-05T08:41:14+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB043237C3D65538ACA8D
+            [text] => sudah tak isi semua teks manual aja
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:41:13Z
+)
+
+2025-05-05T08:41:32+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0031FDD13D5D86EEED7
+            [text] => lah bingung gambar ini ditaruh di url ?
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:41:31Z
+)
+
+2025-05-05T08:41:35+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB04760ADE820785A12F8
+            [text] => nggih
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:41:34Z
+)
+
+2025-05-05T08:42:12+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB014B62D70E2479112CC
+            [text] => dimana mas bro
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:42:12Z
+)
+
+2025-05-05T08:42:56+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746409376-8c4c2372-bf40-4509-abd5-cbc693c20a91.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB014CB0FDE6DBFAC5175
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:42:55Z
+)
+
+2025-05-05T08:43:18+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746409398-2d6e3b7e-a2dc-41b0-8510-fc76e2074c07.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB0576D128176C1E28FAF
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:43:16Z
+)
+
+2025-05-05T08:44:01+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB071C871761A14370E88
+            [text] => lah sdh disini semua
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:44:00Z
+)
+
+2025-05-05T08:44:35+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB07C3D24430D15B0985A
+            [text] => ditaruh bagian yang mana
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:44:35Z
+)
+
+2025-05-05T08:44:39+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0BC97C9A2DD6410C69B
+            [text] => gambarnya
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:44:39Z
+)
+
+2025-05-05T08:44:45+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB06F5A844B1B64EF15D5
+            [text] => sambutan bapak kah
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:44:45Z
+)
+
+2025-05-05T08:45:34+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB077B7766002A23EB765
+            [text] => nggih saya cobanya
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:45:34Z
+)
+
+2025-05-05T08:45:46+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB097EBF9132740AC1250
+            [text] => berarti sambutan bapak tak kosongin nggih
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:45:46Z
+)
+
+2025-05-05T08:47:06+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB061FD4C6C58AAC3566B
+            [text] => mas image hosting e kliyer2
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:47:06Z
+)
+
+2025-05-05T08:48:59+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0B4C05CDA8D3C26A970
+            [text] => mas g nampil apa2
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:48:59Z
+)
+
+2025-05-05T08:51:13+07:00
+Array
+(
+    [document] => Array
+        (
+            [media_path] => statics/media/1746409873-15981d00-3259-49c2-813d-c411768e803c.png
+            [mime_type] => image/png
+            [caption] => lulus 24-25.png
+        )
+
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB079CFE32F53F940B405
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:51:12Z
+)
+
+2025-05-05T08:56:29+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746410189-2893bff9-e47f-4720-b774-dbf131ac0e83.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB037EDE29CE1C2F09D87
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:56:28Z
+)
+
+2025-05-05T08:56:39+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB08BB654F65428222341
+            [text] => kalo tamp[ilan di paint begitu
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:56:39Z
+)
+
+2025-05-05T08:58:13+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB09999C8D4F4F67F851B
+            [text] => nggih mas
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:58:12Z
+)
+
+2025-05-05T08:58:19+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB059FDD7D0940148A19E
+            [text] => kok ada gambar burung ya
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:58:18Z
+)
+
+2025-05-05T08:59:03+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB038DE89D715B924D6B4
+            [text] => garuda e dari mana
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:59:03Z
+)
+
+2025-05-05T08:59:16+07:00
+Array
+(
+    [from] => 6281332006707:68@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB06EAEC1AE158E2848C4
+            [text] => tinggal dihilangi yang garud
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T01:59:16Z
+)
+
+2025-05-05T09:09:36+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 6C092E43DA61E49C130E497776E348E4
+            [text] => Sudah dialihkan mas
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T02:09:35Z
+)
+
+2025-05-05T09:09:46+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746410986-145a1a96-6d77-4e85-9444-2e3d35af94df.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => F727BF23BFBA46497C1949EF4FFBDF6B
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T02:09:45Z
+)
+
+2025-05-05T10:02:04+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB01885CE50EA43FD4400
+            [text] => tak periksa dulu mas
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:02:03Z
+)
+
+2025-05-05T10:18:18+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746415098-24472d2e-fbba-43fd-9b31-e033cda5baf8.jpeg
+            [mime_type] => image/jpeg
+            [caption] => ada notif seperti itu mas
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB0E83A2CF4319F05A874
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:18:17Z
+)
+
+2025-05-05T10:19:41+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB00728C8BB5A0152CD6C
+            [text] => barusan saya restart, lalu buka service muncul notif tsb
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:19:41Z
+)
+
+2025-05-05T10:20:55+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB06CA634C2734FA87826
+            [text] => ok
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:20:54Z
+)
+
+2025-05-05T10:27:42+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB00FDDCF456465F71D93
+            [text] => firewall dan defender tetap off mas
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:27:41Z
+)
+
+2025-05-05T10:28:07+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746415687-581dc6ea-fee2-4cde-9ae8-f52ea89fad7b.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB06BAC0EE086C8BC092B
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:28:06Z
+)
+
+2025-05-05T10:41:48+07:00
+Array
+(
+    [from] => 6281233875008@s.whatsapp.net in 6285746323103-1617975746@g.us
+    [message] => Array
+        (
+            [id] => AF51D571ABF807ACEC6D6B8E394B00B5
+        )
+
+    [pushname] => Samherman
+    [timestamp] => 2025-05-05T03:41:47Z
+)
+
+2025-05-05T10:41:48+07:00
+Array
+(
+    [from] => 6281233875008@s.whatsapp.net in 6285746323103-1617975746@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746416508-1efb4e3a-f2c1-48e0-bdef-a49849bb2d54.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => AF51D571ABF807ACEC6D6B8E394B00B5
+        )
+
+    [pushname] => Samherman
+    [timestamp] => 2025-05-05T03:41:47Z
+)
+
+2025-05-05T10:44:51+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB014BA65836045AD9520
+            [text] => diakses dari dalam bisa mas
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:44:51Z
+)
+
+2025-05-05T10:45:41+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746416741-8f7eb711-257c-4e15-bf58-0a5cc84c3e1c.jpeg
+            [mime_type] => image/jpeg
+            [caption] => ini diakses dari dalam
+        )
+
+    [message] => Array
+        (
+            [id] => 3EB0D10C368B8909291388
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:45:38Z
+)
+
+2025-05-05T10:45:49+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB011687D9A7BD3BF5B7F
+            [text] => ya mas
+            [replied_id] => 3EB0AACF5C3A3D4DA93429
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:45:48Z
+)
+
+2025-05-05T10:48:33+07:00
+Array
+(
+    [from] => 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 368B27D7A0EC934D757D55EB88230687
+            [text] => Betul
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T03:48:32Z
+)
+
+2025-05-05T10:52:06+07:00
+Array
+(
+    [from] => 6282244281291@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 076F0EBD78E60E26D36D220382E34E52
+            [text] => projector Acer resmi:
+
+*acer bs021a = 4.625jt*
+• *bisa beli tripod70x70 = 310rb*
+•svga 4800lumen
+•dlp
+•hdmi,vga,composite input
+
+*acer X1 = 5.100jt*
+• *bisa beli tripod70x70 = 310rb*
+•TKDN
+•xga 4000lumen
+•dlp
+•hdmi,vga,composite input
+        )
+
+    [pushname] => surianaecc@gmail.com
+    [timestamp] => 2025-05-05T03:52:05Z
+)
+
+2025-05-05T11:01:49+07:00
+Array
+(
+    [from] => 6285707328640@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => C011908B0C2EB68C19C04EC31BDE2A71
+        )
+
+    [pushname] => Bajol
+    [timestamp] => 2025-05-05T04:01:48Z
+)
+
+2025-05-05T11:01:50+07:00
+Array
+(
+    [from] => 6285707328640@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => C011908B0C2EB68C19C04EC31BDE2A71
+        )
+
+    [pushname] => Bajol
+    [timestamp] => 2025-05-05T04:01:48Z
+    [video] => Array
+        (
+            [media_path] => statics/media/1746417710-7ef29cdd-1352-47fb-bb21-a13e670cd701.mp4
+            [mime_type] => video/mp4
+            [caption] => 
+        )
+
+)
+
+2025-05-05T11:02:53+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 9423747BA1FEBED28391A0C5CF9F207C
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T04:02:52Z
+)
+
+2025-05-05T11:02:53+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 9423747BA1FEBED28391A0C5CF9F207C
+            [text] => wah golek mentor gae pemanjat iki🫣✌️
+            [replied_id] => C011908B0C2EB68C19C04EC31BDE2A71
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T04:02:52Z
+)
+
+2025-05-05T11:11:30+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3FBE7EE03146C26CDFB7
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T04:11:29Z
+)
+
+2025-05-05T11:11:30+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3FBE7EE03146C26CDFB7
+            [text] => topine apik tuku gek endi lord
+            [replied_id] => C011908B0C2EB68C19C04EC31BDE2A71
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T04:11:29Z
+)
+
+2025-05-05T11:12:02+07:00
+Array
+(
+    [from] => 6285707328640@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 744D8532CEEBEFF9AEFECB8A51925A0A
+            [text] => Teko bos gloyo
+        )
+
+    [pushname] => Bajol
+    [timestamp] => 2025-05-05T04:12:02Z
+)
+
+2025-05-05T11:15:02+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3FDC7C912EF2AD1D1DB4
+            [text] => aku kok gak oleh lord
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T04:15:01Z
+)
+
+2025-05-05T11:28:33+07:00
+Array
+(
+    [from] => 6285749398002@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => CC7CB9CEFEE90C227AE0F5CE944852CB
+        )
+
+    [pushname] => Gloyo
+    [timestamp] => 2025-05-05T04:28:32Z
+)
+
+2025-05-05T11:28:33+07:00
+Array
+(
+    [from] => 6285749398002@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => CC7CB9CEFEE90C227AE0F5CE944852CB
+            [text] => GK ajak2
+            [replied_id] => C011908B0C2EB68C19C04EC31BDE2A71
+        )
+
+    [pushname] => Gloyo
+    [timestamp] => 2025-05-05T04:28:32Z
+)
+
+2025-05-05T11:28:56+07:00
+Array
+(
+    [from] => 6285749398002@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3A0AF846C21E990D68FAEAB5A449D1A2
+            [text] => 🤭😂😂
+            [replied_id] => 3FDC7C912EF2AD1D1DB4
+            [quoted_message] => aku kok gak oleh lord
+        )
+
+    [pushname] => Gloyo
+    [timestamp] => 2025-05-05T04:28:56Z
+)
+
+2025-05-05T11:30:17+07:00
+Array
+(
+    [from] => 6281330206727:73@s.whatsapp.net in 6281330206727@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB00F4BB19B1E690E44E4
+            [text] => alhamdulillah sudah bisa diakses dari luar
+        )
+
+    [pushname] => Ali Gufron
+    [timestamp] => 2025-05-05T04:30:17Z
+)
+
+2025-05-05T11:39:05+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 34A795E6EF93EA0015D7B7BCD6F05F0B
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T04:39:04Z
+)
+
+2025-05-05T11:39:05+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 34A795E6EF93EA0015D7B7BCD6F05F0B
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T04:39:04Z
+    [video] => Array
+        (
+            [media_path] => statics/media/1746419945-0046c10e-1b9c-4d86-a9c3-78b117b686a5.mp4
+            [mime_type] => video/mp4
+            [caption] => Tuhan kuwatkan impron ku ini amin
+        )
+
+)
+
+2025-05-05T11:40:01+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3FF4931BA6D2249CDDCF
+            [text] => inpo nama kos
+            [replied_id] => 34A795E6EF93EA0015D7B7BCD6F05F0B
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T04:40:01Z
+)
+
+2025-05-05T11:43:20+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => C7139E50F69C66C10C06DE24F7791FA4
+            [text] => Aaaah  jangan pak nantik khilaf 😁
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T04:43:19Z
+)
+
+2025-05-05T11:46:48+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746420408-1453f867-71a4-4513-8b88-376941460058.jpeg
+            [mime_type] => image/jpeg
+            [caption] => langsung modem aman t bos
+        )
+
+    [message] => Array
+        (
+            [id] => 816D73725EBB26E9BF78082FF2AE4C13
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T04:46:46Z
+)
+
+2025-05-05T11:47:25+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3F46C3A0FE7B39FF8784
+            [text] => ya kurang aman asline wkwk
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T04:47:24Z
+)
+
+2025-05-05T11:49:23+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => CA9CEAA62C4338B8B3480D257B672E50
+            [text] => wkwkwk
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T04:49:23Z
+)
+
+2025-05-05T12:49:32+07:00
+Array
+(
+    [from] => 6285707328640@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 73EE7A951E5442265A6F1933A5EBAB2E
+            [text] => Hemmm
+            [replied_id] => CC7CB9CEFEE90C227AE0F5CE944852CB
+            [quoted_message] => GK ajak2
+        )
+
+    [pushname] => Bajol
+    [timestamp] => 2025-05-05T05:49:30Z
+)
+
+2025-05-05T13:12:48+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 9CE06DB0D3D72FA9FA9CEA2D95F0E7F7
+            [text] => Ok om makasi
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:12:47Z
+)
+
+2025-05-05T13:12:59+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => A724ACDD09AC637F3E364E4E44900835
+            [text] => BRT yg lama d keluarkan ta om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:12:59Z
+)
+
+2025-05-05T13:13:29+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 8406ECECD508503B7E7AFE999CB6D9B0
+        )
+
+    [pushname] => Asek
+    [sticker] => Array
+        (
+            [media_path] => statics/media/1746425609-86ed80a2-65c3-4fcc-97e6-2a895516cd91.webp
+            [mime_type] => image/webp
+            [caption] => 
+        )
+
+    [timestamp] => 2025-05-05T06:13:28Z
+)
+
+2025-05-05T13:14:36+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746425676-8cd1324a-2484-4776-aebc-ad198b63ce9e.jpeg
+            [mime_type] => image/jpeg
+            [caption] => Ini login nya sama ta om user sama paswod nya
+        )
+
+    [message] => Array
+        (
+            [id] => D7A52C2BC819498D50834B7758D91C44
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:14:35Z
+)
+
+2025-05-05T13:16:04+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 4A6BECD9B0D410EE5409D32E008A6156
+            [text] => Tak masokno nomer hp q GK Masi blm terdaftar om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:16:03Z
+)
+
+2025-05-05T13:16:22+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => EF416CC218D3885D426515BB8A64F221
+            [text] => Apa pilih yg bawah sendiri ya om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:16:22Z
+)
+
+2025-05-05T13:19:36+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3D291DEDAC71C249BF06343E59C015AE
+            [text] => Untuk yg d grub wa itu tetep om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:19:36Z
+)
+
+2025-05-05T13:19:47+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => E447FAE94EE649853551734B0F02203E
+            [text] => Apa harus ganti lagi
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:19:47Z
+)
+
+2025-05-05T13:21:07+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3D92E03EC1A0C264B07BA98816FD669C
+            [text] => Cara ganti nya sama ta om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:21:07Z
+)
+
+2025-05-05T13:21:52+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => C9230EB6A3E29908351666082F50389F
+            [text] => Gimana cara nya om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:21:52Z
+)
+
+2025-05-05T13:22:07+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 26001A4FB1233EF16E16140B41748718
+            [text] => Uda om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:22:06Z
+)
+
+2025-05-05T13:22:23+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746426143-ccc40288-f73c-4f70-b8e4-aac3b10c04fc.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => FA26BB190DAA59F3BC184DD96176FD98
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:22:21Z
+)
+
+2025-05-05T13:23:23+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 802F99A918188B8A09A92E476E09EB84
+            [text] => D hp grup nya ta om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:23:22Z
+)
+
+2025-05-05T13:23:57+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => FADE6078954C67CDFE85D48C79761056
+            [text] => Sap om ku
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:23:56Z
+)
+
+2025-05-05T13:24:17+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 8123C36EF5740A90357EA0A53653BB13
+            [text] => Nanti coba tak ganti nya klo pas d rmh tengger
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:24:17Z
+)
+
+2025-05-05T13:24:36+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 6D3FE9D0B0935643FAED5FF3EE2993C2
+            [text] => Q d rmh Gondang om ku hp satu nya d rmh tengger 🤭
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T06:24:36Z
+)
+
+2025-05-05T14:21:36+07:00
+Array
+(
+    [from] => 6281332006707:69@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB09B526C10B26371EE26
+            [text] => alhamdulillah mas
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T07:21:36Z
+)
+
+2025-05-05T14:21:39+07:00
+Array
+(
+    [from] => 6281332006707:69@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0275C46113400029F59
+            [text] => lancar
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T07:21:39Z
+)
+
+2025-05-05T14:21:49+07:00
+Array
+(
+    [from] => 6281332006707:69@s.whatsapp.net in 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3EB0C2B9BDDF12D64F433D
+            [text] => apakah ini pakai ini terus kah
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T07:21:49Z
+)
+
+2025-05-05T14:34:24+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 04878C1EDDB82D67F7988648CA766DE1
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:34:23Z
+)
+
+2025-05-05T14:34:24+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746430464-bf47ad24-6933-4dfd-92f4-bab77dcf0fc2.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => B84982CA97193111A55E8E16AFE8021B
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:34:23Z
+)
+
+2025-05-05T14:34:25+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746430465-bb5a2c30-7d14-4e9c-a2c7-9afdd4fb821d.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => E5A760A65AAEE90708C789E7DD5745D3
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:34:24Z
+)
+
+2025-05-05T14:34:43+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 851F134A6B631BB26D5ACCBBE29358F5
+            [text] => AH. 32
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:34:43Z
+)
+
+2025-05-05T14:39:30+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => FD31062F7D5DB0A064CA4DEE026060A7
+            [text] => Ok.. internet gk ada
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:39:30Z
+)
+
+2025-05-05T14:41:23+07:00
+Array
+(
+    [from] => 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 366186488353D67F63E7712E357F3F42
+            [text] => Nggih
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T07:41:23Z
+)
+
+2025-05-05T14:41:31+07:00
+Array
+(
+    [from] => 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => B7B80BF71C5992919BA18B405E29735E
+            [text] => U kelanjutannya bagaimana
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T07:41:30Z
+)
+
+2025-05-05T14:41:58+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746430918-9c431d3e-12c4-4c6c-82d1-e4e5115ffd81.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 5C889229C64867E6B585F7A96C049FD0
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:41:57Z
+)
+
+2025-05-05T14:42:46+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => DE8CBE776ECEA458D7F791472EE681BA
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:42:45Z
+    [video] => Array
+        (
+            [media_path] => statics/media/1746430966-3458d5ca-c4c8-49bf-9835-e3c8ff046847.mp4
+            [mime_type] => video/mp4
+            [caption] => 
+        )
+
+)
+
+2025-05-05T14:43:59+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F83CB53AA0FB51EFE4D813A3025C5EEC
+            [text] => Ok siap
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:43:59Z
+)
+
+2025-05-05T14:44:01+07:00
+Array
+(
+    [from] => 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 603EB600F057334CEA2F827D14E14490
+            [text] => Nggih siap
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T07:44:00Z
+)
+
+2025-05-05T14:44:04+07:00
+Array
+(
+    [from] => 6281332006707@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 9020CC5775C847D5823BD80C7F135FD6
+            [text] => Matur nuwun
+        )
+
+    [pushname] => Niut
+    [timestamp] => 2025-05-05T07:44:04Z
+)
+
+2025-05-05T14:52:39+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 0606D1C29CFA80F88F6FEEBE6599EAC5
+            [text] => bekas AD. 46
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T07:52:39Z
+)
+
+2025-05-05T15:04:15+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => E228296FBB1E02DFEEA4DAFE35043A1A
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T08:04:14Z
+)
+
+2025-05-05T15:04:15+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => E228296FBB1E02DFEEA4DAFE35043A1A
+            [text] => LA down
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T08:04:14Z
+)
+
+2025-05-05T15:05:01+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 05E982D954D261FF486CF50BDC8B5A29
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-05T08:05:00Z
+)
+
+2025-05-05T15:05:01+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 05E982D954D261FF486CF50BDC8B5A29
+            [text] => Nahh .. pantes mentok jalan di 100-110 bos .. tak pikir drop total iku mas. Pas tak cek kok sek ada data jalan ..
+            [replied_id] => E228296FBB1E02DFEEA4DAFE35043A1A
+            [quoted_message] => LA down
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-05T08:05:00Z
+)
+
+2025-05-05T15:05:25+07:00
+Array
+(
+    [from] => 6285707328640@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => B22669806420BA6092CA1C7EA57D1F26
+            [text] => Inpo
+        )
+
+    [pushname] => Bajol
+    [timestamp] => 2025-05-05T08:05:25Z
+)
+
+2025-05-05T15:05:52+07:00
+Array
+(
+    [from] => 6285808347424@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3A96D2E6EDC2BBB5AD5D
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:05:51Z
+)
+
+2025-05-05T15:05:52+07:00
+Array
+(
+    [from] => 6285808347424@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3A96D2E6EDC2BBB5AD5D
+            [text] => uo
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:05:51Z
+)
+
+2025-05-05T15:05:58+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3F2F5D81E98560E96430
+            [text] => UP
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T08:05:58Z
+)
+
+2025-05-05T15:06:19+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3FE06B5E179BDA02833C
+            [text] => token e entek paling wkwk
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T08:06:18Z
+)
+
+2025-05-05T15:07:00+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB0D7603E4CA2353A575B
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:06:59Z
+)
+
+2025-05-05T15:07:00+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB0D7603E4CA2353A575B
+            [text] => wong omdata salah cabut
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:06:59Z
+)
+
+2025-05-05T15:07:01+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB08FEAC4E41CF7695184
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:07:00Z
+)
+
+2025-05-05T15:07:01+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB08FEAC4E41CF7695184
+            [text] => hiks
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:07:00Z
+)
+
+2025-05-05T15:07:02+07:00
+Array
+(
+    [from] => 6285608866131@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => F73830E0EBCA461E71F9A83BD9BFB25B
+        )
+
+    [pushname] => lutfi Ari
+    [timestamp] => 2025-05-05T08:07:02Z
+)
+
+2025-05-05T15:07:02+07:00
+Array
+(
+    [from] => 6285608866131@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => F73830E0EBCA461E71F9A83BD9BFB25B
+            [text] => Ok
+        )
+
+    [pushname] => lutfi Ari
+    [timestamp] => 2025-05-05T08:07:02Z
+)
+
+2025-05-05T15:07:50+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 1E8DD9D95CFB0E6E1A2D0527E1EDCCF6
+            [text] => nyobak tes indra paling o🤣
+            [replied_id] => 3FE06B5E179BDA02833C
+            [quoted_message] => token e entek paling wkwk
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T08:07:49Z
+)
+
+2025-05-05T15:15:22+07:00
+Array
+(
+    [from] => 6285707328640@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 43234BBB96FEC3C29058D532FF4F8172
+            [text] => Sek nyer2 bos
+        )
+
+    [pushname] => Bajol
+    [timestamp] => 2025-05-05T08:15:21Z
+)
+
+2025-05-05T15:16:56+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3FAC2DA839573B24AA9A
+            [text] => @6285808347424 pantau kan mas
+            [replied_id] => 43234BBB96FEC3C29058D532FF4F8172
+            [quoted_message] => Sek nyer2 bos
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T08:16:56Z
+)
+
+2025-05-05T15:18:00+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB073A1D9FE825F4AB792
+            [text] => sudah aman pak
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:18:00Z
+)
+
+2025-05-05T15:18:03+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB085B414878235D42FFA
+            [text] => LA sudah ON
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T08:18:02Z
+)
+
+2025-05-05T15:18:20+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 47E7A0A77D446509C578716BE6CA8EC1
+            [text] => bekas H. 5
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T08:18:20Z
+)
+
+2025-05-05T15:21:22+07:00
+Array
+(
+    [from] => 6282237774407:12@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746433282-bfc2cfb4-d891-4713-8105-55128634aa52.jpeg
+            [mime_type] => image/jpeg
+            [caption] => Selamat siang Bapak/Ibu di APJII Jatim,
+
+Badan Pengurus Wilayah APJII Jatim menghimbau kembali kepada segenap Anggota APJII, khususnya yang beroperasi di wilayah Jawa Timur, untuk dapat menyesuaikan dengan regulasi yang berlaku dan memastikan penggunaan frekuensi yang sesuai dengan regulasi.
+
+Selalu gunakan frekuensi yang di-izinkan dan menggunakan perangkat yang sudah bersertifikat postel.
+
+*Penertiban nasional akan diselenggarakan serentak pada tanggal 5 - 9 Mei 2025*.
+
+Demikian informasi yang dapat disampaikan, atas perhatiannya diucapkan terima kasih.
+        )
+
+    [message] => Array
+        (
+            [id] => 3FFF0AD1FFA72F882A73
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T08:21:21Z
+)
+
+2025-05-05T15:22:56+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 6E113AFF69E4B3720CE4FB321FB2043C
+            [text] => nama wifi : HIKARI collections
+paswood : Dianfajrih1
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T08:22:56Z
+)
+
+2025-05-05T15:38:01+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F26292D456859A9E686724402BB78FAA
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T08:38:01Z
+)
+
+2025-05-05T15:38:24+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => A24A3648A95F6DB0D147C37269FA8A6B
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T08:38:24Z
+)
+
+2025-05-05T15:39:42+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => D021CD0C75BB79BC4C95271D633AD8C0
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T08:39:42Z
+)
+
+2025-05-05T16:05:43+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 5005E3143143440FEFC528C73A4C3527
+            [text] => tentang apa ini big bos
+            [replied_id] => 3FFF0AD1FFA72F882A73
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T09:05:42Z
+)
+
+2025-05-05T16:05:44+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 92BFB341A760A62B7B1F26270E2952A2
+            [text] => Tuhan mangkane Tangi turu wa kok boro bek seng wa bos 🥹
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T09:05:44Z
+)
+
+2025-05-05T16:05:57+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB04912B4315127F3FC0A
+            [text] => freqwensi mas
+            [replied_id] => 5005E3143143440FEFC528C73A4C3527
+            [quoted_message] => tentang apa ini big bos
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T09:05:56Z
+)
+
+2025-05-05T16:06:36+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => FA1C9566ABFE0DD0BC43C2134C48B48C
+            [text] => maksutnya wifi modem router yang ke pelanggan apa yang outdoor buat pemancar🙏
+            [replied_id] => 3EB04912B4315127F3FC0A
+            [quoted_message] => freqwensi mas
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T09:06:35Z
+)
+
+2025-05-05T16:07:56+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB0CFB075E110A8502610
+            [text] => bukan mas
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T09:07:56Z
+)
+
+2025-05-05T16:08:06+07:00
+Array
+(
+    [from] => 6285808347424:22@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB0D41F85ACDB7F496688
+            [text] => tapi untuk antena atas di frex 5.2xx
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T09:08:06Z
+)
+
+2025-05-05T16:09:19+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 39FED6AE336A77E0A7F332B08D514252
+            [text] => low sek ada ae t seng pake sinyal tentara ini🤦‍♂️, gak sekalian pake satelit ae
+wong jaman sudah kembali ke fiber dalam tanah😁
+            [replied_id] => 3EB0D41F85ACDB7F496688
+            [quoted_message] => tapi untuk antena atas di frex 5.2xx
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T09:09:19Z
+)
+
+2025-05-05T16:11:49+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746436308-9b902c10-3d40-42ff-8de2-9444a2e53b49.jpeg
+            [mime_type] => image/jpeg
+            [caption] => low penerima sinyal mistis sudah di amankan pak bos, sekarang beralih ke senyap pake full fiber ikut jalur teritisan tonggo🤫
+        )
+
+    [message] => Array
+        (
+            [id] => A48DF381C671AFD3CBAD938C19375187
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T09:11:47Z
+)
+
+2025-05-05T16:14:55+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746436494-7d51bc3c-9619-4399-8e9b-a54a3a1d250c.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 07A34905CF6F69F8F927BC6806AF8A0D
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T09:14:54Z
+)
+
+2025-05-05T16:15:49+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => C87EC5EE11435F6A58FDC1F7DB9C8482
+            [text] => modem bekas H. 05
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T09:15:48Z
+)
+
+2025-05-05T16:17:17+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 7B67F675E7BD32AE059414E79E128705
+            [text] => yang masih pake sinyal merapat ke big bos azv, mumpung kabel K.U masi lebih2 dang di nego sampek dil cek iso bubuk enak😁
+            [replied_id] => 3EB0D41F85ACDB7F496688
+            [quoted_message] => tapi untuk antena atas di frex 5.2xx
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T09:17:16Z
+)
+
+2025-05-05T16:22:12+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F448CA516AEE3F9A8BE843A95C044F62
+            [text] => wonge metu
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T09:22:12Z
+)
+
+2025-05-05T16:22:46+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => A32E3A9BBAFEA8698273C159BF813B35
+            [text] => H. O5
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T09:22:46Z
+)
+
+2025-05-05T17:00:25+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3AC41CE5DDC8A380B615
+            [text] => ada mas dio di luar
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:00:24Z
+)
+
+2025-05-05T17:00:51+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3ADDBEBCBD6530CCA6C4
+            [text] => aq pkk di singopolo
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:00:51Z
+)
+
+2025-05-05T17:06:16+07:00
+Array
+(
+    [from] => 628551000185@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 76E66609D7501C2FA0
+        )
+
+    [pushname] => 628551000185
+    [timestamp] => 2025-05-05T10:06:15Z
+)
+
+2025-05-05T17:07:27+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 5EE24400384775154706C19BC32BC3CC
+            [text] => Ok
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T10:07:27Z
+)
+
+2025-05-05T17:11:12+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A8F38156A8AF8D7C705
+            [text] => nggee
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:11:12Z
+)
+
+2025-05-05T17:15:16+07:00
+Array
+(
+    [from] => 6285894768454@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3E6108452667650880C3BDCBB69AF9C1
+            [text] => Tangi turu mas aku
+        )
+
+    [pushname] => Herry Kiswanto
+    [timestamp] => 2025-05-05T10:15:15Z
+)
+
+2025-05-05T17:15:54+07:00
+Array
+(
+    [from] => 6285894768454@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 4ADEE6C72E01EC14115C3EB13E8E907A
+            [text] => Gak ngerti nek sampean telfon
+        )
+
+    [pushname] => Herry Kiswanto
+    [timestamp] => 2025-05-05T10:15:54Z
+)
+
+2025-05-05T17:17:38+07:00
+Array
+(
+    [from] => 6285894768454@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 2C383AF47F75D3248FD9BB1778246D3E
+            [text] => ,,aku onk kerja.an mas iki di gugah arek2 mas
+        )
+
+    [pushname] => Herry Kiswanto
+    [timestamp] => 2025-05-05T10:17:38Z
+)
+
+2025-05-05T17:18:14+07:00
+Array
+(
+    [from] => 6285785932388@s.whatsapp.net
+    [image] => Array
+        (
+            [media_path] => statics/media/1746440294-2dfad5e4-4a74-46e8-bd20-f4030647562e.jpeg
+            [mime_type] => image/jpeg
+            [caption] => Ok udah bisa pak
+        )
+
+    [message] => Array
+        (
+            [id] => F2E3A88039F64C2373CB5B2EB626E515
+        )
+
+    [pushname] => woyocoffee99
+    [timestamp] => 2025-05-05T10:18:13Z
+)
+
+2025-05-05T17:25:14+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => E02BF1CBA216FFCB6808E1EFC4016115
+            [text] => Kalau bisa malam ini kak
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T10:25:14Z
+)
+
+2025-05-05T17:27:04+07:00
+Array
+(
+    [from] => 6285894768454@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 5BC4FB4E72E66DF121A6BA0595BBF72A
+            [text] => Siap mas , 🙏
+        )
+
+    [pushname] => Herry Kiswanto
+    [timestamp] => 2025-05-05T10:27:04Z
+)
+
+2025-05-05T17:33:29+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A812B2ED22CF2635FD9
+            [text] => adek aman a?
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:33:29Z
+)
+
+2025-05-05T17:39:56+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3AADF34762CA322E78AB
+            [text] => aq mau keluar sm bapak diluk bentar lg y
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:39:56Z
+)
+
+2025-05-05T17:40:07+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3ADF4258A32FB8C62635
+            [text] => td mau tak ajak bubuk arek e
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:40:06Z
+)
+
+2025-05-05T17:41:52+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A5D80BEC379AA6710F3
+            [text] => sakno e
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:41:52Z
+)
+
+2025-05-05T17:42:11+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A5DCA9D4297F0013FD3
+            [text] => pasti golek i kakak uus😂
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:42:10Z
+)
+
+2025-05-05T17:49:40+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A698D13860ED5521F6E
+            [text] => sek tak beli in bapak sate
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:49:40Z
+)
+
+2025-05-05T17:49:42+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3AB6A0C313EE345F9C4A
+            [text] => trs balek
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T10:49:42Z
+)
+
+2025-05-05T17:51:02+07:00
+Array
+(
+    [from] => 628888645777@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => EED214F8F23142BC39E3DE1EE693CF2E
+            [text] => Terima kasih telah menghubungi *HSGQ Indonesia* 
+
+Ada yang bisa kami bantu? 
+
+Mohon sebutkan Nama dan asal anda ? 
+[Jam kerja]
+Monday - Friday : 09.00 - 18.00 (OPEN)
+Saturday, Sunday, National Holiday is CLOSED
+Terima Kasih
+        )
+
+    [pushname] => HSGQ SALES ENGINEER HENDRY
+    [timestamp] => 2025-05-05T10:51:02Z
+)
+
+2025-05-05T17:59:21+07:00
+Array
+(
+    [from] => 628888645777:14@s.whatsapp.net in 628888645777@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3FC87D4827AC83AB6322
+            [text] => Mohon sebutkan Nama dan asal anda ?
+        )
+
+    [pushname] => HSGQ SALES ENGINEER HENDRY
+    [timestamp] => 2025-05-05T10:59:21Z
+)
+
+2025-05-05T18:03:02+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A284F20BEEEA5140773
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T11:03:02Z
+)
+
+2025-05-05T18:03:08+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A3610F91BCD3AFAF1ED
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T11:03:08Z
+)
+
+2025-05-05T18:28:55+07:00
+Array
+(
+    [from] => 6285159227179@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 33269C1E538CAF68366763B7F51795D5
+            [text] => pean proyek speker kelas smpi lt. 3 tah ?
+        )
+
+    [pushname] => Daru
+    [timestamp] => 2025-05-05T11:28:54Z
+)
+
+2025-05-05T18:32:14+07:00
+Array
+(
+    [from] => 6285159227179@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F5F9E5A3318253AA3DCB1A9A1AA83B46
+            [text] => pak didik utus aku sambung lt. 3 pak
+        )
+
+    [pushname] => Daru
+    [timestamp] => 2025-05-05T11:32:13Z
+)
+
+2025-05-05T18:32:54+07:00
+Array
+(
+    [from] => 6285159227179@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3D676A04A71B3781E1A0A05A4140A762
+            [text] => bayaran melu sopo pak
+        )
+
+    [pushname] => Daru
+    [timestamp] => 2025-05-05T11:32:53Z
+)
+
+2025-05-05T18:33:43+07:00
+Array
+(
+    [from] => 6285159227179@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 26CFF6E9B42F51497B3CF4C40D03796F
+            [text] => aku kalah posisi pak
+        )
+
+    [pushname] => Daru
+    [timestamp] => 2025-05-05T11:33:43Z
+)
+
+2025-05-05T18:35:19+07:00
+Array
+(
+    [from] => 6285159227179@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 4A35F426A3D1EF7FAA40A2E8160ADCE7
+            [text] => pean gak ngomongi aku lak pean proyek include lt. 3 pak
+        )
+
+    [pushname] => Daru
+    [timestamp] => 2025-05-05T11:35:19Z
+)
+
+2025-05-05T18:37:59+07:00
+Array
+(
+    [from] => 6285159227179@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 5433E2D1FEF3B31A7086FBC5E4DD3DFD
+            [text] => aku gak eroh peta & proyek pean
+        )
+
+    [pushname] => Daru
+    [timestamp] => 2025-05-05T11:37:56Z
+)
+
+2025-05-05T18:40:30+07:00
+Array
+(
+    [from] => 6285159227179@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 74B802159A8AB065492090EB01CD8BDC
+            [text] => peta kelas & speker kelas gak sesuai pak
+        )
+
+    [pushname] => Daru
+    [timestamp] => 2025-05-05T11:40:29Z
+)
+
+2025-05-05T18:41:10+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => BE9255CA88E339790DC7FCAA4818BC35
+            [text] => Waduhhh emane mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:41:10Z
+)
+
+2025-05-05T18:41:23+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 8C95DDE651DE7799DE36B82920307DF3
+            [text] => Masak modem aja g ngatasi mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:41:23Z
+)
+
+2025-05-05T18:43:54+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 9B9FD00396D1881A91A52D016DD438E7
+            [text] => Sapa p muji ta?
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:43:53Z
+)
+
+2025-05-05T18:43:56+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 176B4C5BD53C512466EAF0B965EF72F4
+            [text] => Saya g rela mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:43:55Z
+)
+
+2025-05-05T18:44:01+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => C64DB6507F1BBB49C506EC6C2067F0F6
+            [text] => Kalau diambil itu
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:44:00Z
+)
+
+2025-05-05T18:44:15+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => B96A6218A8CCED62D06806268447CBC5
+            [text] => Saya g tau orang nya mas
+            [replied_id] => 50543A839C525253D6E63556E80B86D2
+            [quoted_message] => Kalau bisa cari koneksi yg ada dulu aja mas syafaat, disana ada jalur triky sama bithome kemaren sempet maintenance bareng soalnya 😢
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:44:14Z
+)
+
+2025-05-05T18:44:26+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => DED87CD417BD937BA0E1538797EB9817
+            [text] => Kemaren sempet deal2an smaa c hanafi
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:44:25Z
+)
+
+2025-05-05T18:44:37+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 6F9DA2C72B823C917D135969FFF831D7
+            [text] => Suruh ambil dr alun2
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:44:37Z
+)
+
+2025-05-05T18:47:05+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F639194DABEEC66CC8EF5E3A7DCE1C8E
+            [text] => Sok keras p muji itu
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:47:05Z
+)
+
+2025-05-05T18:47:22+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 2150685A2A3D15530EA384568829432E
+            [text] => Kalau masalah politik penjualan g lihat teman
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:47:22Z
+)
+
+2025-05-05T18:49:15+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => E5BA40A24F21B5260A0A7ADCFE4122F7
+            [text] => Iya mas kyak paling bener sendiri
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:49:14Z
+)
+
+2025-05-05T18:49:23+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => C24C490014AE283A2C7DF6B260955DF2
+            [text] => Wong kabel aja masih g punya tiang
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:49:23Z
+)
+
+2025-05-05T18:49:26+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 1B4534BEAEE5765DC40B122B7040CD84
+            [text] => Ngurusi orang
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:49:26Z
+)
+
+2025-05-05T18:52:38+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => E97E82C91F63DA0058C7CB4A2B0C9D8C
+            [text] => Males meski kenal deke
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:52:37Z
+)
+
+2025-05-05T18:52:42+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 9DB1FD8AFA1A48ABA623D4625B2B34EB
+            [text] => Deket
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:52:41Z
+)
+
+2025-05-05T18:52:46+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 68A8803323BC60897ACCFD095C1DB990
+            [text] => Mending g usah kenal
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:52:46Z
+)
+
+2025-05-05T18:56:30+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => DC450A92A68530FEF9EEE00CDC3C2669
+            [text] => Ohh iya
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:56:30Z
+)
+
+2025-05-05T18:56:35+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => B9B64CCCA9D8F5CA96837A429A71998B
+            [text] => Istri orang bangil t mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:56:35Z
+)
+
+2025-05-05T18:58:18+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 5003092236D651142BF57D40A8AF9718
+            [text] => Iya mas masih belum tenang
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:58:17Z
+)
+
+2025-05-05T18:58:25+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 059F15C019486518670B33936C9BBDEB
+            [text] => Mikrotik kena hacker mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:58:24Z
+)
+
+2025-05-05T18:58:29+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 8989D3633CC253FF9A3B43C9443A6587
+            [text] => G ada yg nolongin
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T11:58:29Z
+)
+
+2025-05-05T19:00:01+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 63AA4941C49D1CAF7A90DF456E19319F
+            [text] => Kena imbas totolink kemaren
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:00:00Z
+)
+
+2025-05-05T19:00:08+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => A81BD57CCA8AC846BCAFB8E33A5C0446
+            [text] => Sekarang ini pakai biling mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:00:08Z
+)
+
+2025-05-05T19:00:15+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => ECFCF9A05EA9A6209C0949536CE77654
+            [text] => Jd g asal ngeriset😄🙏🏼
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:00:15Z
+)
+
+2025-05-05T19:01:22+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => FBA43975CA8F560E5C7550961DB2D1ED
+            [text] => Iya os laine padahal aman ya mas, pkoe g x86
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:01:22Z
+)
+
+2025-05-05T19:03:08+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => D96392D005D00D28C4C65F1049E97C06
+            [text] => Iya mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:03:08Z
+)
+
+2025-05-05T19:03:13+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => B155895D9D798BC57BEE665E35F75C7A
+            [text] => Enak gahar nya aja
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:03:13Z
+)
+
+2025-05-05T19:03:17+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => ADBDA369A58A2244178121B1B6E35DE1
+            [text] => Padahal y gitu
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:03:17Z
+)
+
+2025-05-05T19:07:43+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F1DD39AB989748F3EA94E484F81FB875
+            [text] => 4 layer ya
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:07:43Z
+)
+
+2025-05-05T19:07:56+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => FBB3E4A1B6E3347F380C5DECE2B5B797
+            [text] => Yg unmanaged apa yg managed mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:07:55Z
+)
+
+2025-05-05T19:09:53+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => A45CCC9BB9488E9AD7DB468F37DCEE1C
+            [text] => Ohh iya mas
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:09:53Z
+)
+
+2025-05-05T19:09:55+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 6C2522BEC4CA4DDFA3A2C2115FAA134B
+            [text] => Baru tau aq
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:09:55Z
+)
+
+2025-05-05T19:26:49+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 64EF284615915353F78609A34D859D50
+            [text] => Siapp mas
+            [replied_id] => D66D6AEAC2AF3B00F1152ECB7311ABEE
+            [quoted_message] => Aku tak lanjut lihat temen temen dulu ya mas, kayak nya memang udah angkat tangan mas temen temen
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:26:48Z
+)
+
+2025-05-05T19:26:59+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 0717ACC9D94A1EAE90FA473E2F948243
+            [text] => Keren😄
+            [replied_id] => BA0A2D124BB0D52B49BE99CB082F7DC2
+            [quoted_message] => Iya mas belum begitu trend memang ruijie mas tapi fitur nya yg enak mas, gak perlu nangkep Mark routing manual, semua udah disediain sama si ruijie mas 😂
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:26:59Z
+)
+
+2025-05-05T19:27:07+07:00
+Array
+(
+    [from] => 6281559602667@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 8FC361BDFDB68985551BC45D1A4CE370
+            [text] => Siapp mas
+            [replied_id] => D2DBF601157C3E1738FED0ADC781B582
+            [quoted_message] => Sekedar sharing aja ya mas syafaat soalnya aku juga baru di dunia networking mas 😁
+        )
+
+    [pushname] => Nafisah
+    [timestamp] => 2025-05-05T12:27:07Z
+)
+
+2025-05-05T19:59:09+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 5E1450B961B238CF2D4BDE62777EA050
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T12:59:09Z
+)
+
+2025-05-05T19:59:10+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746449950-aa8e7f4a-8553-4fe7-abb8-f94bdfcec04d.jpeg
+            [mime_type] => image/jpeg
+            [caption] => muasuk puwol, perlu di upgrade lagi untuk kemudahan calon pelanggan iki✊
+        )
+
+    [message] => Array
+        (
+            [id] => 5E1450B961B238CF2D4BDE62777EA050
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T12:59:09Z
+)
+
+2025-05-05T20:30:56+07:00
+Array
+(
+    [from] => 6289515857923@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => F014CE78884DE8B1E285BFA9F457AD92
+            [text] => Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/CNtAlOj4ddx1HuD0MPI4e8
+        )
+
+    [pushname] => Moza Melsa
+    [timestamp] => 2025-05-05T13:30:54Z
+)
+
+2025-05-05T20:31:58+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => DAC8299370F4899B2201E08FB2345F57
+            [text] => Om sibuk ta
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T13:31:57Z
+)
+
+2025-05-05T20:41:39+07:00
+Array
+(
+    [from] => 6289646560024@s.whatsapp.net in 120363399985139470@g.us
+    [message] => Array
+        (
+            [id] => 9A78F6A09AB48522571A58F2F3621A17
+            [text] => /nottik-id 8465999914fbbcd3e64c
+        )
+
+    [pushname] => Asenk
+    [timestamp] => 2025-05-05T13:41:37Z
+)
+
+2025-05-05T20:41:39+07:00
+Array
+(
+    [from] => 6289646560024@s.whatsapp.net in 120363399985139470@g.us
+    [message] => Array
+        (
+            [id] => 9A78F6A09AB48522571A58F2F3621A17
+        )
+
+    [pushname] => Asenk
+    [timestamp] => 2025-05-05T13:41:37Z
+)
+
+2025-05-05T20:50:23+07:00
+Array
+(
+    [from] => 62895339101719@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 5A92345189C0DA182D2E1A3F4404D60D
+            [text] => Sek om
+        )
+
+    [pushname] => E$C0B4R👺👺
+    [timestamp] => 2025-05-05T13:50:22Z
+)
+
+2025-05-05T20:50:24+07:00
+Array
+(
+    [from] => 62895339101719@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 30BF9E321E997796F4CF0F9912FF6E7E
+            [text] => Mulessss
+        )
+
+    [pushname] => E$C0B4R👺👺
+    [timestamp] => 2025-05-05T13:50:24Z
+)
+
+2025-05-05T21:05:48+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 8FF82EB1DE26B0AA8A649F2FD3965A28
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-05T14:05:47Z
+)
+
+2025-05-05T21:05:48+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 8FF82EB1DE26B0AA8A649F2FD3965A28
+            [text] => Infoo data boss ???
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-05T14:05:47Z
+)
+
+2025-05-05T21:06:07+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746453967-e6b70571-b7d7-4d2f-baf2-d76b1105a165.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => CF9962EA01BAC0C23D07846AF4B6EA5D
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-05T14:06:06Z
+)
+
+2025-05-05T21:08:21+07:00
+Array
+(
+    [from] => 6285808347424@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3A3F0502D85FB8555859
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T14:08:21Z
+)
+
+2025-05-05T21:08:22+07:00
+Array
+(
+    [from] => 6285808347424@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746454102-015276d6-0fbd-4796-886b-b5a156ff7a2b.jpeg
+            [mime_type] => image/jpeg
+            [caption] => link aman mas cek lokaln
+        )
+
+    [message] => Array
+        (
+            [id] => 3A3F0502D85FB8555859
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T14:08:21Z
+)
+
+2025-05-05T21:09:26+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3365723F0E93D14CEAC640EC8B2B3D30
+            [text] => Ok siap ...
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-05T14:09:26Z
+)
+
+2025-05-05T21:20:21+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => A3A88D784EF85FF2D111683C5E481426
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:20:20Z
+)
+
+2025-05-05T21:20:21+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => A3A88D784EF85FF2D111683C5E481426
+            [text] => Mikrotik utama aman. Sepertinya mikrotik distribusi nya yg bermasalah
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:20:20Z
+)
+
+2025-05-05T21:21:05+07:00
+Array
+(
+    [from] => 6285749398002@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => A6CB9BE6DCF44041AF1CDED32F9B4E5B
+        )
+
+    [pushname] => Gloyo
+    [timestamp] => 2025-05-05T14:21:04Z
+)
+
+2025-05-05T21:21:05+07:00
+Array
+(
+    [from] => 6285749398002@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => A6CB9BE6DCF44041AF1CDED32F9B4E5B
+            [text] => Ganti mikrotik boss🤭
+            [replied_id] => 3365723F0E93D14CEAC640EC8B2B3D30
+            [quoted_message] => Ok siap ...
+        )
+
+    [pushname] => Gloyo
+    [timestamp] => 2025-05-05T14:21:04Z
+)
+
+2025-05-05T21:21:39+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 9A1AD28E2AD3DF98C7FDC0720C74F3D9
+            [text] => Rekomendasine haplite opo gr2 lord?
+            [replied_id] => A6CB9BE6DCF44041AF1CDED32F9B4E5B
+            [quoted_message] => Ganti mikrotik boss🤭
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:21:38Z
+)
+
+2025-05-05T21:22:44+07:00
+Array
+(
+    [from] => 6285232123794@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 79560E8771B2DC384547DE1FAD4E7EBC
+        )
+
+    [pushname] => Agus
+    [timestamp] => 2025-05-05T14:22:44Z
+)
+
+2025-05-05T21:22:45+07:00
+Array
+(
+    [from] => 6285232123794@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 79560E8771B2DC384547DE1FAD4E7EBC
+        )
+
+    [pushname] => Agus
+    [timestamp] => 2025-05-05T14:22:44Z
+    [video] => Array
+        (
+            [media_path] => statics/media/1746454965-ef5f5c68-b80f-4c6d-a6b6-dd5699a66ed2.mp4
+            [mime_type] => video/mp4
+            [caption] => Mekanik az-net cabang pondok sidogiri😂,
+        )
+
+)
+
+2025-05-05T21:23:49+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 5FA778C545A9929F1A8B564A9D2346DF
+            [text] => Sarungan ngunu iku pas menek opo gak kadu miber burung nya lord
+            [replied_id] => 79560E8771B2DC384547DE1FAD4E7EBC
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:23:49Z
+)
+
+2025-05-05T21:25:12+07:00
+Array
+(
+    [from] => 6285808347424:23@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB00DE0B9588E9E1BEA08
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T14:25:11Z
+)
+
+2025-05-05T21:25:12+07:00
+Array
+(
+    [from] => 6285808347424:23@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3EB00DE0B9588E9E1BEA08
+            [text] => seng POSTEL
+            [replied_id] => 9A1AD28E2AD3DF98C7FDC0720C74F3D9
+            [quoted_message] => Rekomendasine haplite opo gr2 lord?
+        )
+
+    [pushname] => @HMAD MyRise
+    [timestamp] => 2025-05-05T14:25:11Z
+)
+
+2025-05-05T21:25:12+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => CAD1B7625CEDD525C762A2275F641658
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T14:25:12Z
+)
+
+2025-05-05T21:25:12+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => CAD1B7625CEDD525C762A2275F641658
+            [text] => Mibere seh enggak kuwater Moro nelolor Kokok totoke jidor 🤭
+            [replied_id] => 5FA778C545A9929F1A8B564A9D2346DF
+            [quoted_message] => Sarungan ngunu iku pas menek opo gak kadu miber burung nya lord
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T14:25:12Z
+)
+
+2025-05-05T21:26:08+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746455168-8b8ff2c1-5e78-4221-b5e4-145ce5713be1.jpeg
+            [mime_type] => image/jpeg
+            [caption] => ganti iki gpp t
+        )
+
+    [message] => Array
+        (
+            [id] => 58A2FE59BB48374ED9876A8EB4ED1BB7
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T14:26:07Z
+)
+
+2025-05-05T21:26:13+07:00
+Array
+(
+    [from] => 6285232123794@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 708825B57BEFD8FA66D867424659E7D8
+            [text] => Aku rdok wedi mas di nisore kwter sawan 😂😂
+        )
+
+    [pushname] => Agus
+    [timestamp] => 2025-05-05T14:26:13Z
+)
+
+2025-05-05T21:26:38+07:00
+Array
+(
+    [from] => 6289515857923@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 020677FAC55A3239CC13801DAC2BAEE5
+        )
+
+    [pushname] => Moza Melsa
+    [timestamp] => 2025-05-05T14:26:37Z
+)
+
+2025-05-05T21:27:21+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 78E57CCD79667CD85215AD1A87188098
+            [text] => wah gak level nek ngene iki, kurang sip menang duek kala bondo🤣
+            [replied_id] => 8C7B0940726401702286D096E7BDB3C3
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T14:27:20Z
+)
+
+2025-05-05T21:27:30+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 53D7A1CB2719418B3A692E0369991408
+            [text] => Haplite 3 😂
+            [replied_id] => 3EB00DE0B9588E9E1BEA08
+            [quoted_message] => seng POSTEL
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:27:30Z
+)
+
+2025-05-05T21:28:02+07:00
+Array
+(
+    [from] => 62895351839039@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 83F1454BDB81AC5D5C97394DDE392671
+        )
+
+    [pushname] => MAR
+    [timestamp] => 2025-05-05T14:28:02Z
+)
+
+2025-05-05T21:28:02+07:00
+Array
+(
+    [from] => 62895351839039@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 83F1454BDB81AC5D5C97394DDE392671
+            [text] => kaet modon ngimami masjet Jamek . Di ajak penek an 😂
+            [replied_id] => 79560E8771B2DC384547DE1FAD4E7EBC
+        )
+
+    [pushname] => MAR
+    [timestamp] => 2025-05-05T14:28:02Z
+)
+
+2025-05-05T21:28:07+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 9B56DDF2D28159FED4F2CF4828B2C4DC
+            [text] => Veteran
+            [replied_id] => 58A2FE59BB48374ED9876A8EB4ED1BB7
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:28:07Z
+)
+
+2025-05-05T21:28:49+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 40E2E2E36CAA0778EB522119CABFFDE8
+            [text] => Iki jelas mikrotik murah. Di uripi tok gak d gawe 😂🤲🤭
+            [replied_id] => 8C7B0940726401702286D096E7BDB3C3
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:28:49Z
+)
+
+2025-05-05T21:30:28+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 22E57BDE88BBD3CFB55159E5317F9253
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T14:30:28Z
+)
+
+2025-05-05T21:30:28+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 22E57BDE88BBD3CFB55159E5317F9253
+            [text] => opo kiee
+            [replied_id] => 8C7B0940726401702286D096E7BDB3C3
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-05T14:30:28Z
+)
+
+2025-05-05T21:32:47+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 735992C35048E07D7E8582AD2221780F
+            [text] => Ijol gx4 wani nambah piro samean mas
+            [replied_id] => 8C7B0940726401702286D096E7BDB3C3
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:32:46Z
+)
+
+2025-05-05T21:36:23+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 00AD79F07A0E89BD80042ACFFF36CA90
+            [text] => Sdh UP mas @6285655554457
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-05T14:36:22Z
+)
+
+2025-05-05T21:36:40+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 84ABE75B5DE6A15414BA5FA822FF12D8
+            [text] => Mikro sg SFP error ....
+            [replied_id] => 00AD79F07A0E89BD80042ACFFF36CA90
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-05T14:36:40Z
+)
+
+2025-05-05T21:42:26+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A5DB395595C0D7A2F0B4082010B58D5
+            [text] => Om wa posisi yg tertaut apa harus d lepas apa harus tetep d tautkan
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T14:42:26Z
+)
+
+2025-05-05T21:44:14+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 655EDD15CC4144C80D9AB513337256B3
+            [text] => Siap om tak coba lagi om ku
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T14:44:13Z
+)
+
+2025-05-05T21:45:10+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 62951E08F968F29CF676E4F4F0CF4819
+            [text] => Ok sip masok om wisan 👍🏻
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T14:45:10Z
+)
+
+2025-05-05T21:47:10+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 358B46C1206C3723367B014E2FA52750
+        )
+
+    [pushname] => Asek
+    [sticker] => Array
+        (
+            [media_path] => statics/media/1746456430-737edb0c-1bff-490d-9968-fd63c343c03d.webp
+            [mime_type] => image/webp
+            [caption] => 
+        )
+
+    [timestamp] => 2025-05-05T14:47:09Z
+)
+
+2025-05-05T22:00:15+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746457215-e6f13298-2af2-4ad4-b0bd-24187d6fd890.jpeg
+            [mime_type] => image/jpeg
+            [caption] => aki ae sementara ws cukup✊
+        )
+
+    [message] => Array
+        (
+            [id] => 457A0F24FB19144D309BF71BB2D5C333
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T15:00:15Z
+)
+
+2025-05-05T22:02:57+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => E39B2950FB4A2D3A467CCFA73FE66FCA
+            [text] => Om q bukak mikrotik dek hp lokalan kok nyantol apa nya om kira2
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:02:56Z
+)
+
+2025-05-05T22:04:08+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746457448-0269e0d1-b497-424c-a016-d53088a5f348.jpeg
+            [mime_type] => image/jpeg
+            [caption] => kalau ada yang murah, cobalah yang mahal
+karena yang mahal sudah pasti gak murah🤣
+        )
+
+    [message] => Array
+        (
+            [id] => 455C4DB30E75E7A91D4548821E1EA17D
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-05T15:04:07Z
+)
+
+2025-05-05T22:15:36+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 4503873915DDB2C727FC4D93125083E2
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:15:36Z
+    [video] => Array
+        (
+            [media_path] => statics/media/1746458136-99b97f7a-1465-42f3-8d21-434416a529d5.mp4
+            [mime_type] => video/mp4
+            [caption] => Ngene Iki om
+        )
+
+)
+
+2025-05-05T22:17:13+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 15E8466B00BEEA2CE52A4B6685C9BF7B
+            [text] => Pakek lokalan Iki om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:17:13Z
+)
+
+2025-05-05T22:20:03+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A2FC711B20FABD1A45C
+            [text] => tumben seharian rodok sumpek ae maeng.. ada yg mengganjal di hati kah? atau lg kangen sm seseorang?
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T15:20:03Z
+)
+
+2025-05-05T22:24:23+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3ACDCBA1E86808FADD91
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T15:24:23Z
+)
+
+2025-05-05T22:24:33+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3A40B827F89F58A3379A
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T15:24:33Z
+)
+
+2025-05-05T22:33:06+07:00
+Array
+(
+    [from] => 6281412250900@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3AE0B1BEC60E44398D1F
+        )
+
+    [pushname] => ($.$)
+    [timestamp] => 2025-05-05T15:33:06Z
+)
+
+2025-05-05T22:38:31+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 1012F301056838FCEF0B6EAFEA7B9FF9
+            [text] => Mbps nya om habis jalan langsong nyantol om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:38:31Z
+)
+
+2025-05-05T22:38:49+07:00
+Array
+(
+    [from] => 6281233456455@s.whatsapp.net in 6285746323103-1617975746@g.us
+    [message] => Array
+        (
+            [id] => 29E9363CB78B7443A848D24AFBEB22B5
+        )
+
+    [pushname] => CV ANDA JAYA ACHMAD
+    [timestamp] => 2025-05-05T15:38:48Z
+)
+
+2025-05-05T22:38:49+07:00
+Array
+(
+    [from] => 6281233456455@s.whatsapp.net in 6285746323103-1617975746@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746459529-9b0487b1-2ed3-4244-aaf9-930097e11e61.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 29E9363CB78B7443A848D24AFBEB22B5
+        )
+
+    [pushname] => CV ANDA JAYA ACHMAD
+    [timestamp] => 2025-05-05T15:38:48Z
+)
+
+2025-05-05T22:38:50+07:00
+Array
+(
+    [from] => 6281233456455@s.whatsapp.net in 6285746323103-1617975746@g.us
+    [message] => Array
+        (
+            [id] => 746B372E6B79D5BAB4799F3C30AE2CD9
+            [text] => Monggo yg mau pasang wifi. 🙏
+        )
+
+    [pushname] => CV ANDA JAYA ACHMAD
+    [timestamp] => 2025-05-05T15:38:49Z
+)
+
+2025-05-05T22:40:03+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 1DD129F1516286B904EA976912E5518D
+            [text] => Ya om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:40:03Z
+)
+
+2025-05-05T22:40:50+07:00
+Array
+(
+    [from] => 6281233456455@s.whatsapp.net in 6285746323103-1617975746@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746459650-ae121f7f-3024-418e-b657-1dc7be79d48e.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 2A0F047D1C5E3FC889D3939676B05BD7
+        )
+
+    [pushname] => CV ANDA JAYA ACHMAD
+    [timestamp] => 2025-05-05T15:40:49Z
+)
+
+2025-05-05T22:40:50+07:00
+Array
+(
+    [from] => 6281233456455@s.whatsapp.net in 6285746323103-1617975746@g.us
+    [message] => Array
+        (
+            [id] => 3F9B1542226D93B92553F50982B72DC6
+            [text] => Sule (susu kedelai)
+Ready setiap hari, bukak 24jam.
+Ada rasa Ori, coklat, stroberi, melon.
+Japri jam berapapun siap antar.
+        )
+
+    [pushname] => CV ANDA JAYA ACHMAD
+    [timestamp] => 2025-05-05T15:40:49Z
+)
+
+2025-05-05T22:41:06+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 58477E3A47208D657F2178A5C5972457
+            [text] => Sama aja om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:41:06Z
+)
+
+2025-05-05T22:42:36+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 15AE51BCA9C3F7FE14E0C7ADF394501D
+            [text] => Masa lah ya buka mikrotik punyak apit aman om ral-team nya
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:42:36Z
+)
+
+2025-05-05T22:43:34+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 1BF46359D5327901EC559B021333948A
+            [text] => Siap
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:43:33Z
+)
+
+2025-05-05T22:50:05+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => EB3E2BAA305E7CD2C3F182D268F753A0
+            [text] => Masi tetep om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-05T15:50:04Z
+)
+
+2025-05-05T23:13:55+07:00
+Array
+(
+    [from] => 62895339101719@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => CC04FA7805D1EE1551337118EBF67DCF
+            [text] => Om
+        )
+
+    [pushname] => E$C0B4R👺👺
+    [timestamp] => 2025-05-05T16:13:54Z
+)
+
+2025-05-06T08:46:46+07:00
+Array
+(
+    [from] => 628888645777:14@s.whatsapp.net in 628888645777@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3FDFA1DCE833BC8850D8
+            [text] => Selamat Pagi! Pak Rahman, Salam kenal 🤝 saya Hendry Sales Manager HSGQ
+Boleh bantu follow akun Instagram kami terlebih dahulu, 
+jika sudah kirimkan screenshoot kepada kami, berikut link di bawah ini
+https://www.instagram.com/hsgqid?igsh=MW10OGFyNnpoZDJzcA==p
+        )
+
+    [pushname] => HSGQ SALES ENGINEER HENDRY
+    [timestamp] => 2025-05-06T01:46:46Z
+)
+
+2025-05-06T09:08:19+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 0774512E6B5451193E9EAB25D72CBAA1
+            [text] => Suda aman om
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-06T02:08:19Z
+)
+
+2025-05-06T10:03:30+07:00
+Array
+(
+    [from] => 628888645777:14@s.whatsapp.net in 628888645777@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3F15EB9451A89B14F3DA
+            [text] => https://www.youtube.com/@HSGQIndonesia
+        )
+
+    [pushname] => HSGQ SALES ENGINEER HENDRY
+    [timestamp] => 2025-05-06T03:03:30Z
+)
+
+2025-05-06T10:03:44+07:00
+Array
+(
+    [from] => 628888645777:14@s.whatsapp.net in 628888645777@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3F4D325FFD7E4C3F7CDB
+            [text] => boleh bantu Subscribe Pak Rahman
+        )
+
+    [pushname] => HSGQ SALES ENGINEER HENDRY
+    [timestamp] => 2025-05-06T03:03:44Z
+)
+
+2025-05-06T10:06:18+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746500778-a8ed8f41-fc76-4de7-9e1a-1442aec5c988.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => D842326FD076B6C6F182CFD1BAD57E12
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:06:17Z
+)
+
+2025-05-06T10:06:28+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 1870FAF293653F7F31E893D54E1529BA
+            [text] => Sakit berdarah darah
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:06:27Z
+)
+
+2025-05-06T10:06:48+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => C03EF87A14EDE8C7398C133C6A09FA47
+            [text] => @6285157559518 @6285748280476 @6285731171927
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:06:48Z
+)
+
+2025-05-06T10:07:02+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 91A8A65EED7EB5AF7F74EBA6D8CDD10A
+            [text] => Jalur gempol maintenance di wunut
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:07:01Z
+)
+
+2025-05-06T10:08:17+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 2463083A35651D345404509183180E57
+        )
+
+    [pushname] => .
+    [sticker] => Array
+        (
+            [media_path] => statics/media/1746500896-8feaa753-84b9-41c8-a6ce-b58af348639f.webp
+            [mime_type] => image/webp
+            [caption] => 
+        )
+
+    [timestamp] => 2025-05-06T03:08:16Z
+)
+
+2025-05-06T10:09:18+07:00
+Array
+(
+    [from] => 6285157559518@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 5E3EFCCE4CDF1B7D637B19C12EC61B91
+            [text] => fo cut t pak @6282237774407
+        )
+
+    [pushname] => .
+    [timestamp] => 2025-05-06T03:09:18Z
+)
+
+2025-05-06T10:09:49+07:00
+Array
+(
+    [from] => 6285655554457@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 2AB0A2D834E009432252C051387EE239
+            [text] => Sakno.e mitra babat di anak tirikan  , oraa di sebut 🤣🤣🤣🫣🫣
+            [replied_id] => C03EF87A14EDE8C7398C133C6A09FA47
+        )
+
+    [pushname] => skye
+    [timestamp] => 2025-05-06T03:09:48Z
+)
+
+2025-05-06T10:10:03+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 6102AAAB73DF11FF72AC587E7F77B34B
+            [text] => 😭😭😭😭 aq gak di akoni gak melok di celuk🤣
+            [replied_id] => C03EF87A14EDE8C7398C133C6A09FA47
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-06T03:10:03Z
+)
+
+2025-05-06T10:11:02+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [image] => Array
+        (
+            [media_path] => statics/media/1746501062-24fdb87f-dd3a-4eb2-a9ab-868e973b345a.jpeg
+            [mime_type] => image/jpeg
+            [caption] => 
+        )
+
+    [message] => Array
+        (
+            [id] => 9550FDE21B13E4A534A48B297361F30C
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-06T03:11:01Z
+)
+
+2025-05-06T10:12:06+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 9B067183F033013AC89878F8DAECD869
+            [text] => babat soto malah wenak🤣
+            [replied_id] => 9550FDE21B13E4A534A48B297361F30C
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-06T03:12:06Z
+)
+
+2025-05-06T10:13:01+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 0E81EDE48D0362C5E49488409A8213CA
+            [text] => Samean sinten kak 🤭
+            [replied_id] => 6102AAAB73DF11FF72AC587E7F77B34B
+            [quoted_message] => 😭😭😭😭 aq gak di akoni gak melok di celuk🤣
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:13:01Z
+)
+
+2025-05-06T10:14:29+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 80362A5A0B6EAE4DD1A75DA21F0A5EDD
+            [text] => wo, mben nek ws wakeh tak drop kellurahan cicang🤣🤣🤣🤣🤣
+            [replied_id] => 0E81EDE48D0362C5E49488409A8213CA
+            [quoted_message] => Samean sinten kak 🤭
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-06T03:14:28Z
+)
+
+2025-05-06T10:14:59+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => C8744AC187E612933A849698BAF6F338
+            [text] => @6281235570547
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:14:59Z
+)
+
+2025-05-06T10:15:08+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 4AFFB7B43DBF7CD57DBEFE822E3370D0
+            [text] => Cacake samean kondisikan bos
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:15:07Z
+)
+
+2025-05-06T10:15:18+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => AD37AC2E81A0844EFCECCD177B24CEC2
+            [text] => hus
+            [replied_id] => 4AFFB7B43DBF7CD57DBEFE822E3370D0
+            [quoted_message] => Cacake samean kondisikan bos
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-06T03:15:17Z
+)
+
+2025-05-06T10:16:15+07:00
+Array
+(
+    [contact] => Array
+        (
+            [displayName] => Gilang HSGQ Support Engineer
+            [vcard] => BEGIN:VCARD
+VERSION:3.0
+N:HSGQ Support Engineer;Gilang;;;
+FN:Gilang HSGQ Support Engineer
+TEL;type=CELL;waid=628888747999:+62 888-8747-999
+END:VCARD
+            [contextInfo] => Array
+                (
+                    [expiration] => 0
+                    [ephemeralSettingTimestamp] => 0
+                    [disappearingMode] => Array
+                        (
+                            [initiator] => 0
+                        )
+
+                )
+
+        )
+
+    [from] => 628888645777:14@s.whatsapp.net in 628888645777@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3FD0807CCEEFBC022E2F
+        )
+
+    [pushname] => HSGQ SALES ENGINEER HENDRY
+    [timestamp] => 2025-05-06T03:16:15Z
+)
+
+2025-05-06T10:16:38+07:00
+Array
+(
+    [from] => 628888645777:14@s.whatsapp.net in 628888645777@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3FA5521BD212DB4CA132
+            [text] => baik terima kasih, bisa ke team enginer ya pak
+        )
+
+    [pushname] => HSGQ SALES ENGINEER HENDRY
+    [timestamp] => 2025-05-06T03:16:38Z
+)
+
+2025-05-06T10:16:49+07:00
+Array
+(
+    [from] => 628888747999@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 23E89F28027CC006CCDE8D01F8409C27
+            [text] => Thank you for contacting HSGQ Indonesia Technical Support! Please let us know how we can help you.
+===
+Untuk pertanyaan teknis terkait produk HSGQ mohon di isi informasi dibawah ini : 
+Nama Customer :
+Type OLT/ONU/L2 SW : 
+Mac Number : 
+S/N : 
+Problems :
+Apakah masih dalam garansi :
+        )
+
+    [pushname] => Tech 1
+    [timestamp] => 2025-05-06T03:16:48Z
+)
+
+2025-05-06T10:17:13+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => C2960066763464CD518BC79F37827479
+            [text] => Q yo GK d celok
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-06T03:17:12Z
+)
+
+2025-05-06T10:17:34+07:00
+Array
+(
+    [from] => 6285749398002@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => DFECC355798E784ADA916C10DC24D5B7
+            [text] => Q celuken pisan bos
+            [replied_id] => C2960066763464CD518BC79F37827479
+            [quoted_message] => Q yo GK d celok
+        )
+
+    [pushname] => Gloyo
+    [timestamp] => 2025-05-06T03:17:34Z
+)
+
+2025-05-06T10:18:51+07:00
+Array
+(
+    [from] => 6282237774407@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 9A6CC02C49967F2BDF10862D9AAF788C
+            [text] => 🐊🐍🦮🐖
+        )
+
+    [pushname] => Azvi
+    [timestamp] => 2025-05-06T03:18:51Z
+)
+
+2025-05-06T10:19:18+07:00
+Array
+(
+    [from] => 6285749398002@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 59215B05475405671E28259B244578D3
+            [text] => 🤭😂😂
+        )
+
+    [pushname] => Gloyo
+    [timestamp] => 2025-05-06T03:19:17Z
+)
+
+2025-05-06T10:19:18+07:00
+Array
+(
+    [from] => 628888747999:15@s.whatsapp.net in 628888747999@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3FAA35E5E7957C30631E
+            [text] => pagi
+        )
+
+    [pushname] => Tech 1
+    [timestamp] => 2025-05-06T03:19:18Z
+)
+
+2025-05-06T10:23:56+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 2CBADDF1E9C2C60C04F6F56F250262A2
+            [text] => bonbin lengkap ws🤣
+            [replied_id] => 9A6CC02C49967F2BDF10862D9AAF788C
+            [quoted_message] => 🐊🐍🦮🐖
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-06T03:23:56Z
+)
+
+2025-05-06T10:24:59+07:00
+Array
+(
+    [from] => 628888747999:15@s.whatsapp.net in 628888747999@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3FD085E85176C6E478E5
+            [text] => Iya om, untuk firmware versi 11 pada OLT HSGQ G02ID, memang masih ada kendala di bagian bandwidth dan latency. Disarankan untuk melakukan upgrade ke versi firmware terbaru agar bug tersebut bisa teratasi dan kinerja perangkat menjadi lebih maksimal
+        )
+
+    [pushname] => Tech 1
+    [timestamp] => 2025-05-06T03:24:59Z
+)
+
+2025-05-06T10:30:47+07:00
+Array
+(
+    [from] => 6285755550887@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => FBBB6313E4CCB67E05A5CE34602E00B4
+            [text] => Gorong onok seng bukak bos
+            [replied_id] => 9B067183F033013AC89878F8DAECD869
+            [quoted_message] => babat soto malah wenak🤣
+        )
+
+    [pushname] => Asek
+    [timestamp] => 2025-05-06T03:30:46Z
+)
+
+2025-05-06T10:35:49+07:00
+Array
+(
+    [from] => 628888747999:15@s.whatsapp.net in 628888747999@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3FBB6066A9B60E6E8A98
+            [text] => 13 om versi yang terbaru
+        )
+
+    [pushname] => Tech 1
+    [timestamp] => 2025-05-06T03:35:49Z
+)
+
+2025-05-06T10:37:42+07:00
+Array
+(
+    [from] => 6285731171927@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3A6352049986E4C6AC1B
+        )
+
+    [pushname] => M. FAJRIL ARDIANSYAH
+    [timestamp] => 2025-05-06T03:37:41Z
+)
+
+2025-05-06T10:37:42+07:00
+Array
+(
+    [from] => 6285731171927@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 3A6352049986E4C6AC1B
+        )
+
+    [pushname] => M. FAJRIL ARDIANSYAH
+    [reaction] => Array
+        (
+            [id] => C03EF87A14EDE8C7398C133C6A09FA47
+            [message] => 🫡
+        )
+
+    [timestamp] => 2025-05-06T03:37:41Z
+)
+
+2025-05-06T10:47:07+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 97D08FDE4D47C90BE13B240F14F62F44
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-06T03:47:07Z
+)
+
+2025-05-06T10:47:07+07:00
+Array
+(
+    [from] => 6289676444447@s.whatsapp.net in 120363212656320046@g.us
+    [message] => Array
+        (
+            [id] => 97D08FDE4D47C90BE13B240F14F62F44
+            [text] => wah eman e🤭
+            [replied_id] => FBBB6313E4CCB67E05A5CE34602E00B4
+            [quoted_message] => Gorong onok seng bukak bos
+        )
+
+    [pushname] => Bisnis Lokal
+    [timestamp] => 2025-05-06T03:47:07Z
+)
+
+2025-05-06T10:55:59+07:00
+Array
+(
+    [from] => 628888747999:15@s.whatsapp.net in 628888747999@s.whatsapp.net
+    [message] => Array
+        (
+            [id] => 3F8E578CD387CDDE51C3
+            [text] => boleh om
+        )
+
+    [pushname] => Tech 1
+    [timestamp] => 2025-05-06T03:55:59Z
+)
+

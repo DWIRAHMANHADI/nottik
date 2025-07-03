@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/aldinokemal/sdk-php-whatsapp-web-multidevice.git"
+    }
+  ],
+  "require": {
+    "aldinokemal/sdk-php-whatsapp-web-multidevice": "dev-main"
+  }
+}

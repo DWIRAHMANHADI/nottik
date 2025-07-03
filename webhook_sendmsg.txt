@@ -1,0 +1,6 @@
+2025-05-05T06:01:36+07:00 | HTTP 400 | {"code":"VALIDATION_ERROR","message":"phone: cannot be blank."}
+2025-05-05T06:10:48+07:00 | HTTP 400 | {"code":"VALIDATION_ERROR","message":"phone: cannot be blank."}
+2025-05-05T06:12:06+07:00 | HTTP 400 | {"code":"VALIDATION_ERROR","message":"phone: cannot be blank."}
+2025-05-05T06:14:18+07:00 | HTTP 400 | {"code":"VALIDATION_ERROR","message":"phone: cannot be blank."}
+2025-05-05T08:06:38+07:00 | HTTP 400 | {"code":"VALIDATION_ERROR","message":"phone: cannot be blank."}
+2025-05-05T20:41:47+07:00 | HTTP 400 | {"code":"VALIDATION_ERROR","message":"phone: cannot be blank."}

@@ -1,0 +1,20 @@
+---UP----
+:local nama "$user";
+:local token "rahasia123";
+:local ip [/ppp active get [find name=$nama] address];
+:local up [/ppp active get [find name=$nama] uptime];
+:local caller [/ppp active get [find name=$nama] caller-id];
+:local service [/ppp active get [find name=$nama] service];
+:local active [/ppp active print count];
+
+/tool fetch url="https://logs.simpan.id/berbagi/pppoe-event.php" http-method=post http-data="event=login&user=$nama&ip=$ip&caller=$caller&uptime=$up&service=$service&active=$active&token=$token" keep-result=no;
+
+---DOWN---
+:local nama "$user";
+:local token "rahasia123";
+:local lastdisc [/ppp secret get [find name=$nama] last-disconnect-reason];
+:local lastlogout [/ppp secret get [find name=$nama] last-logged-out];
+:local lastcall [/ppp secret get [find name=$nama] last-caller-id];
+:local active [/ppp active print count];
+
+/tool fetch url="https://logs.simpan.id/berbagi/pppoe-event.php" http-method=post http-data="event=logout&user=$nama&lastdisc=$lastdisc&lastlogout=$lastlogout&lastcall=$lastcall&active=$active&token=$token" keep-result=no;

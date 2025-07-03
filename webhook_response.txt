@@ -1,0 +1,22 @@
+2025-05-05T05:19:00+07:00 | HTTP 200 | <br />
+<b>Fatal error</b>:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'group_id_last_auto' in 'field list' in /www/wwwroot/nottik.simpan.id/includes/database.php:37
+Stack trace:
+#0 /www/wwwroot/nottik.simpan.id/includes/database.php(37): PDO-&gt;prepare()
+#1 /www/wwwroot/nottik.simpan.id/includes/database.php(84): Database-&gt;query()
+#2 /www/wwwroot/nottik.simpan.id/user/api/update-group-id.php(43): Database-&gt;update()
+#3 {main}
+  thrown in <b>/www/wwwroot/nottik.simpan.id/includes/database.php</b> on line <b>37</b><br />
+
+2025-05-05T05:24:32+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T05:33:25+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T05:38:04+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T05:40:54+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T05:51:51+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T05:54:37+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T05:56:14+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T06:01:34+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T06:10:46+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T06:12:04+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T06:14:16+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363415588839165@g.us"}
+2025-05-05T08:06:36+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363398351753806@g.us"}
+2025-05-05T20:41:45+07:00 | HTTP 200 | {"success":true,"message":"Group ID berhasil diupdate","group_id":"120363399985139470@g.us"}
